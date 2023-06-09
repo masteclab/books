@@ -7,3 +7,4 @@
 ## ng-book 2 The Complete Guide to Angular
 ## Electronics Projects with the ESP8266 and ESP32 Building Web Pages, Applications, and WiFi Enabled Devices
 ## Low Earth Orbit Satellite Design
+## HANDBOOK OF BATTERIES
