@@ -11,3 +11,4 @@
 ## Machine Learning in Action
 ## MATLAB Programming Fundamentals
 ## Aprenda MATLAB
+## Deep Learning with Python
